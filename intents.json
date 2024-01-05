@@ -48,9 +48,17 @@
     },
     {
       "tag": "query",
-      "patterns": ["What is Simplilearn?"],
+      "patterns": ["What is a chatbot?"],
       "responses": [
-        "Simplilearn is the popular online Bootcamp & online courses learning platform "
+        "A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "query",
+      "patterns": ["What is a NLP?"],
+      "responses": [
+        "Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data."
       ],
       "context": [""]
     }
